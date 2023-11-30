@@ -23,4 +23,4 @@ npm start
 Uygulama, tarayıcınızda http://localhost:3000 adresinde çalışacaktır.
 
 ## Katkıda Bulunma
-Bu proje, React bileşenlerini ve hook'larını kullanma pratiği yapmak için mükemmel bir örnektir. Katkılarınızı bekliyoruz! https://github.com/hakankgn/BMI/
+Bu proje, React bileşenlerini ve hook'larını kullanma pratiği yapmak için bir örnektir. Katkılarınızı bekliyorum! https://github.com/hakankgn/BMI/
